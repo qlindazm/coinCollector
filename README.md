@@ -1,5 +1,9 @@
 ## King of Glory刷金币脚本
 
+忽然发现了写好的[轮子](https://github.com/xyxsns/King-of-glory)有兴趣可以看这个，有更详细的介绍及相关资料，代码也比我的好看hhh
+
+### 需要
+
 - **adb调试**
 - **开启usb调试并允许模拟点击**
 - **需要可以打冒险模式的通天塔**
@@ -10,19 +14,22 @@
 - **需要把“自动”关掉，会影响操作**
 - **注意方向问题，测试默认是听筒朝左的方向**
 
-### 以下是示例图，根据自己手机实际的按钮位置调整参数
 
-![image](https://github.com/qlindazm/coinCollector/raw/master/1.png)
 
-这里就用一个狄仁杰，记得关掉“自动”选项
 
-![image](https://github.com/qlindazm/coinCollector/raw/master/2.png)
-![image](https://github.com/qlindazm/coinCollector/raw/master/3.png)
-![image](https://github.com/qlindazm/coinCollector/raw/master/4.png)
 
-看到两个小红点了吗，就是用来确定方向的mark point
+以下是示例图，根据自己手机实际的按钮位置调整参数 
 
-同时根据这图确定left joystick, basic attack, 以及两个ability的位置
+<img src="./1.png" width = "400"  align=center />
 
-![image](https://github.com/qlindazm/coinCollector/raw/master/5.png)
+- 这里只用一个狄仁杰，记得关掉“自动”选项 
+
+<img src="./2.png" width = "400"  align=center />
+<img src="./3.png" width = "400"  align=center />
+<img src="./4.png" width = "400"  align=center />
+
+- 两个小红点就是用来确定方向的mark point  
+同时根据上图确定left joystick, basic attack, 以及两个ability的位置
+
+<img src="./5.png" width = "400"  align=left />
 
